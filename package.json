@@ -24,7 +24,7 @@
     "react-dom": "15.6.1",
     "react-modal": "2.2.2",
     "validator": "8.0.0",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "3.1.11"
   },
   "devDependencies": {
     "sass": "^1.26.10",
